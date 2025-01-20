@@ -1,4 +1,4 @@
-package section_06_debugging;
+package section_6_debugging_and_scanner_class;
 
 public class example1 {
 
@@ -134,11 +134,12 @@ public class example1 {
     public static void main(String[] args)
     {
         //  Start of main method
-//        System.out.println("This will be printed");
-//        System.out.println("First Lesson On Debugging");
-//        mutateVariable(false, true, false, true, true, true);
-//        displaySomeNumbers();
-//        displaySum(12,13,14);
+        System.out.println("This will be printed");
+        System.out.println("First Lesson On Debugging");
+        mutateVariable(false, true, false, true, true, true);
+        displaySomeNumbers();
+        displaySum(12,13,14);
+        foo3();
         // end of main method
 
     }
