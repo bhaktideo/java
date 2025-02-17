@@ -1,4 +1,4 @@
-package section_05_introduction_to_java;
+package section_5_introduction_to_java;
 
 import java.lang.*;
 
